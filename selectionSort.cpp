@@ -1,4 +1,4 @@
-//Selection Sort 
+//Selection Sort sıralama algoritmasi
 //iterasyon ve karsilastirma sayilari ile birlikte göstermektedir.
 
 #include <iostream>
