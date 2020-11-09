@@ -1,6 +1,6 @@
 // İsmailcan Tosun
-//Matris sınıfı ve bu sınıfı kullanarak görüntü işleme
-//işlemleri yapabilen sınıf
+// Matris sınıfı ve bu sınıfı kullanarak görüntü işleme
+// işlemleri yapabilen sınıf
 
 #include <iostream>
 #include<stdlib.h>
